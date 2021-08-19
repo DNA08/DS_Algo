@@ -1,4 +1,4 @@
-package gupta.sarthak.ds.tree;
+package gupta.sarthak.ds.tree.easy;
 
 /*
 Given the root of an n-ary tree, return the preorder traversal of its nodes' values.
